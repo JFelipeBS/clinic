@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761862888086",
+    "project_id": "mobe-6a101",
+    "storage_bucket": "mobe-6a101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761862888086:android:b2ce2b6b2c1eeeb2b100b7",
+        "android_client_info": {
+          "package_name": "com.example.clinicprofissional"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSksy0FIhK2u1DlwUdNWQLPzQsElcWm10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -28,7 +28,7 @@ Este aplicativo foi criado como parte do desenvolvimento e prática das minhas h
 #### Cadastro de pacientes e clínicas
 
 ![Imagem2](https://github.com/JFelipeBS/clinic/assets/69635348/56bf56ff-a9df-4406-b2de-a88a680051f1)
-![Imagem3](https://github.com/JFelipeBS/clinic/assets/69635348/32c3ad03-5140-40e8-a131-6cb364551de3)
+![Imagem3](https://github.com/JFelipeBS/clinic/assets/69635348/fbf16ef2-5992-430f-a1d6-927805868bd0)
 ![Imagem4](https://github.com/JFelipeBS/clinic/assets/69635348/069483a0-fb35-4b49-af6a-4a3a74152cd0)
 
 #### Interface da clínica
